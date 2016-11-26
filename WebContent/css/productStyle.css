@@ -1,0 +1,86 @@
+@CHARSET "ISO-8859-1";
+.product_display > p
+{
+	
+    word-break: keep-all;
+	position: relative;
+	top: 80px;
+	padding : 50px;
+}
+.product_img > img
+{
+	position: relative;
+	top: 100px;
+	left: 70px;
+	border: 1px solid #000;
+}
+.product_img > h1
+{
+	position: absolute;
+	left: 600px;
+	bottom: 350px;
+}
+.product_img > h2
+{
+	position: absolute;
+	left: 600px;
+	bottom: 300px;
+}
+.product_img > h3
+{
+	position: absolute;
+	left: 600px;
+	bottom: 260px;
+	color: green;
+}
+.product_img > h4
+{
+	position: absolute;
+	left: 600px;
+	bottom: 220px;
+}
+.product_img .addtocart .btn
+{
+	position: absolute;
+	left: 600px;
+	top: 530px;
+	width: 350px;
+	height: 40px;
+	border-radius: 25px;
+}
+.product_img #qty
+{
+	width: 200px;
+	position: absolute;
+	left: 600px;
+	top: 450px;
+}
+.row .col-sm-4 .thumbnail a,p
+{
+	margin: auto;
+    width: 50%;
+}
+.row .col-sm-4 .thumbnail > i
+{
+	margin: auto;
+	position: relative;
+	right: 100px;
+}
+.row .col-sm-4 .thumbnail > b
+{
+	margin: auto;
+	position: relative;
+	left: 170px;
+	color: red;
+}
+.row .col-sm-4 .thumbnail .addtocart
+{
+	margin: auto;
+    width: 30%;
+   
+}
+.row .thumbnail{
+	position: relative;
+	top: 100px;
+	height: 460px;
+}

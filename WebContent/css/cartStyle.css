@@ -1,0 +1,39 @@
+
+.container .row
+{
+	position:  relative;
+	top:100px;
+	
+}
+body
+{
+	background-color: #f8f8f8;
+}
+.empty-cart{
+	margin-top: 200px;
+	margin-bottom: 50px;
+}
+.empty-cart i
+{
+	position: relative;
+	left:600px;
+}
+.empty-cart p
+{
+	position: relative;
+	left:510px;
+	 font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+	 font-weight: 600;
+	 font-size: 18px;
+}
+.empty-cart a
+{
+	position: relative;
+	left:550px;
+}
+.table .cart .remove .btn-sm
+{
+	position: relative;
+	right: 50px;
+	top: 34px;
+}

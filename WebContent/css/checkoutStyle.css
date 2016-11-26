@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+.checkout
+{
+	position: relative;
+	top: 100px;
+	margin-left: 150px;
+}
+.checkout .row .payment
+{
+	 font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+	 font-weight: 600;
+	 font-size: 15px;
+}
+.checkout .row .buttons
+{
+	position: relative;
+	top: 300px;
+}
+.checkout .row .buttons .btn-default
+{
+   position: relative;
+	right:600px;
+}
+.checkout .row .buttons .btn-success
+{
+	position: relative;
+	bottom:40px;
+}
